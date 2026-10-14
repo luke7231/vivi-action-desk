@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.sqlite3*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.library-helpers/
+.library-upload-private/
+deliverables/
+source/dataset.zip
+source/assignment.pdf
+source/screenshot.png
